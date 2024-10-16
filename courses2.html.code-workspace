@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Users/Вова Руденко"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
